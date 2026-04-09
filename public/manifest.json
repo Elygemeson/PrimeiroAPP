@@ -1,0 +1,10 @@
+{
+  "name": "Calculadora",
+  "short_name": "Calculadora",
+  "description": "Calculadora completa com modo científico. Funciona offline.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080C10",
+  "theme_color": "#080C10",
+  "orientation": "portrait"
+}
